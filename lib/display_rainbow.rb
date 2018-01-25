@@ -4,5 +4,5 @@ array_of_colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet
 def display_rainbow(array_of_colors)
 
 puts "R: #{letters[0]}"
-"
+
 end #end def
